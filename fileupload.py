@@ -24,7 +24,7 @@ def upload_file():
 			new.close()
 			return "File upload successful"
 		else:
-			return "Ivaild File Extension, please check file ext\n"
+			return "Ivaild File Extension, please check file ext"
 			
 	return '''
 	<!doctype html>
