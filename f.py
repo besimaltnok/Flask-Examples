@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding : utf-8 -*-
+"""
+ # Flask Proje Yapısı #
+Flask uygulamaları genellikle bu  yapı kullanılarak inşa edilir.
+"""
 
 import os
 import sys
