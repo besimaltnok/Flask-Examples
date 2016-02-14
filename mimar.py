@@ -20,4 +20,4 @@ try:
 		print "\nProje Dosyalariniz Olusturulmustur\nBasarilar :)"
 		os.system("cd "+proje+"&& "+"tree")
 except IndexError:
-		print "Kullanmak icin  : ./mimar.py proje_ismi"
+		print "Kullanmak icin  :: ./mimar.py proje_ismi"
