@@ -16,4 +16,4 @@ try:
 		os.system("touch "+ proje+"/"+proje+'.py')
 
 except IndexError:
-		print "For use  : ./f.py proje_name"
+		print "For use it  : ./f.py proje_name"
